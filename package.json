@@ -1,7 +1,7 @@
 {
-"name": "heroku1",
+"name": "cutia-heroku1",
   "version": "0.0.0",
-  "description": "heroku1",
+  "description": "cutia-heroku1",
   "main": "index.js",
   "engines": {
     "node": "6"
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "heroku1"
+    "url": "cutia-heroku1"
   },
   "keywords": [
     "heroku"
